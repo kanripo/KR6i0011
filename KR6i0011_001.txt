@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:35.855541
+#+DATE: 2015-08-30 20:07:37.037116
 #+TITLE: 佛說滅十方冥經
 #+PROPERTY: CBETA_ID T14n0435
 #+PROPERTY: ID KR6i0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 435
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0011_T_000-0105b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0011_T_001-0105b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.435¶
-
- 佛說滅十方冥經一卷¶
+No. 435¶
+佛說滅十方冥經一卷¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -34,7 +33,7 @@ No.435¶
 憂慼低頭，佛以預知，故而問言：「童子所奏，¶
 而早出城，心懷憂灼，顏色慘慼。」
 
-面善悅白佛¶
+而善悅白佛¶
 言：「唯天中天！今我二親身不安和，橫為人¶
 非人所見侵嬈，晝夜寤寐不得寧息，出入行¶
 步亦見逼惱。又我之身雖處大國，遭此困厄¶
